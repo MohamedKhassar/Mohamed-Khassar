@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQFuYn0MuTWEew/profile-displaybackgroundimage-shrink_350_1400/0/1701386129770?e=1707955200&v=beta&t=RxTYK8t7ipZOVjVGPsLjhYhWAICQxBVfCAcl8WAI_Us)](https://github.com/MohamedKhassar)
 <h1 align="center">Hi 👋, I'm Mohamed Khassar</h1>
 <h3 align="center">A passionate Full-Stack JS developer from Morocco</h3>
-<img align="right" style="border-radius:8px" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 800px; height: 311px; margin: 0px; width: 415px;" alt="GitHub - rudrabarad/Gifs: Collection of some Coding / Programming Gifs that  can be used in Special Repository :trollface:" jsname="kn3ccd">
+<img align="right" width:"400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 800px; height: 311px; margin: 0px; width: 415px;" alt="GitHub - rudrabarad/Gifs: Collection of some Coding / Programming Gifs that  can be used in Special Repository :trollface:" jsname="kn3ccd">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedkhassar&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedkhassar" /> </p>
 
 - 🌱 I’m currently learning **TypeScript**
