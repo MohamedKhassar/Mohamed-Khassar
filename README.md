@@ -1,6 +1,6 @@
 ## Featured Repository
 
-[![Repository Name](https://img.shields.io/badge/Repository-Name-brightgreen)]([https://github.com/your-username/repository-name](https://github.com/MohamedKhassar/Mohamed-Khassar)
+[![Repository Name](https://img.shields.io/badge/Repository-Name-brightgreen)](https://github.com/MohamedKhassar/Mohamed-Khassar)
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQFuYn0MuTWEew/profile-displaybackgroundimage-shrink_350_1400/0/1701386129770?e=1707955200&v=beta&t=RxTYK8t7ipZOVjVGPsLjhYhWAICQxBVfCAcl8WAI_Us)](https://github.com/MohamedKhassar)
 <h1 align="center">Hi 👋, I'm Mohamed Khassar</h1>
 <h3 align="center">A passionate Full-Stack JS developer from Morocco</h3>
